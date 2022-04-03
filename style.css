@@ -132,7 +132,6 @@ margin: 10px 0px;
 
     width: 100%;
     padding: 16px 0px;
-    
     margin: 30px;
     border: none;
     border-radius: 8px ;
@@ -148,6 +147,28 @@ margin: 10px 0px;
 
 #p{
    
-       color: #f0ffffde;
-        margin-bottom: 10px;
+    color: #f0ffffde;
+    margin-bottom: 10px;
+}
+
+
+.btn-vlt{
+background-color: 55555;
+border: none;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+cursor: pointer;
+width: 100%;
+padding: 16px 0px;
+margin: 30px;
+border: none;
+border-radius: 8px ;
+outline: none;
+letter-spacing: 3px;
+font-weight: 800;
+    
 }
