@@ -117,6 +117,7 @@ margin: 10px 0px;
     box-shadow: 0px 10px 40px #00000056;
     outline: none;
     box-sizing: border-box;
+    
 }
 
 .textfield > label {
@@ -126,49 +127,45 @@ margin: 10px 0px;
 
 .textfield > input::placeholder{
     color:#f0ffff94;
+    
 }
 
 .btn-login{
 
     width: 100%;
-    padding: 16px 0px;
-    margin: 30px;
+    background-color:00ff88;
+    border-radius: 8px;
     border: none;
-    border-radius: 8px ;
-    outline: none;
-    text-transform: uppercase;
-    font-weight: 800;
-    letter-spacing: 3px;
-    color : #2b134b;
-    background: #00ff88;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
     cursor: pointer;
-    box-shadow: 0px 10px 40px -12px #00ff8052;
+    letter-spacing: 3px;
+    margin-bottom: 30px;
 }
 
 #p{
    
     color: #f0ffffde;
-    margin-bottom: 10px;
+    margin-bottom: 50px;
 }
 
 
 .btn-vlt{
-background-color: 55555;
-border: none;
-color: white;
-padding: 15px 32px;
-text-align: center;
-text-decoration: none;
-display: inline-block;
-font-size: 16px;
-cursor: pointer;
-width: 100%;
-padding: 16px 0px;
-margin: 30px;
-border: none;
-border-radius: 8px ;
-outline: none;
-letter-spacing: 3px;
-font-weight: 800;
+    
+    width: 100%;
+    background-color:00ff88;
+    border-radius: 8px;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    letter-spacing: 3px;
+    
     
 }
